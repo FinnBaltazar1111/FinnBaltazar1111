@@ -1,1 +1,1 @@
-[![Discord Presence]([https://lanyard.cnrad.dev/api/764259980865699842](https://lanyard.cnrad.dev/api/764259980865699842?theme=dark&idleMessage=I%27m%20currently%20being%20lazy&bg=0D1117)https://lanyard.cnrad.dev/api/764259980865699842?theme=dark&idleMessage=I%27m%20currently%20being%20lazy&bg=0D1117)](https://discord.com/users/764259980865699842)
+[![Discord Presence](https://lanyard.cnrad.dev/api/764259980865699842?theme=dark&idleMessage=I%27m%20currently%20being%20lazy&bg=0D1117&borderRadius=-1px)](https://discord.com/users/764259980865699842)
